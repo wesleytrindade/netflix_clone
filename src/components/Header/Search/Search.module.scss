@@ -1,0 +1,22 @@
+@import "../../../styles/colors.scss";
+
+.search_container {
+    flex:1;
+    height: 100%;
+    padding: 1rem;
+    position: relative;
+    display: flex;
+    transition: 2s width;
+}
+
+.search_button {
+    border: none;
+    background-color: transparent;
+    color: $gray-100;
+    z-index: 9;
+
+    &:hover {
+        color: $white;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "slides":[{
+       "slideId":1,
+       "slideImg": "https://poltronanerd.com.br/wp-content/uploads/2022/06/stranger-things-season-4.jpg",
+       "slideTitle": "Strangers Things 4",
+       "slideSubtitle": "Entre novamente no mundo invertido nessa nova aventura"
+    },
+    {
+        "slideId":2,
+        "slideImg": "https://www.diariodaregiao.com.br/image/policy:1.794711.1628008547:1628008547/image.jpg?f=2x1&w=1200",
+        "slideTitle": "La casa de papel",
+        "slideSubtitle": "Um novo roubo, com novos problemas"
+     },
+
+     {
+        "slideId":3,
+        "slideImg": "https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2022/05/informac%CC%A7o%CC%83es-temporada-2-squid-game-round-6-netflix.jpg?fit=1200%2C675&ssl=1",
+        "slideTitle": "Round 6",
+        "slideSubtitle": "Você conseguiria sobreviver a esse jogo mortal?"
+     }
+]
+}

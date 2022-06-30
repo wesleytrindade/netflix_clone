@@ -1,0 +1,22 @@
+@import "/src/styles/colors.scss";
+
+.carousel_container{
+    display: flex;
+    height: 15vh;
+    background-color: $gray-700;
+    color: $gray-100;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    flex-direction: column;
+
+    &__category_text{
+        font-family: "NetflixSans-Medium", sans-serif;
+        font-size: 1.625rem;
+    }
+
+    &__carousel{
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: row;
+    }
+}
